@@ -1,4 +1,4 @@
-a {
+https://www.youtube.com/watch?v=IMZ2D8Nz6sA&index=75&list=PLSQl0a2vh4HCLqA-rhMi_Z_WnBkD3wUkaa {
 	text-decoration: none;
 	color: blue;
 }
@@ -9,21 +9,21 @@ li:hover {
 
 
 body {
-	background-color:  #BBCCDD;
+	background-color:  #5F9EA0;
 	margin-left: 1em;
 }
 
 h1 {
-	color: #000066;
+	color: #00008B;
 	font-family: Fantasy;
-	font-size: 24pt;
+	font-size: 26pt;
 	margin-bottom: 0;
 }
 
 h2 {
 	color: #006600;
 	font-family: Arial;
-	font-size: 14pt;
+	font-size: 16pt;
 	margin-top: 0;
 	padding-left: 2em;
 }
@@ -34,7 +34,7 @@ li {
 }
 
 #listarea {
-	background-color: #DDEEFF;
+	background-color: #F0F8FF;
 	border: 5px double blue;
 	padding: 0;
 	width: 50%;
